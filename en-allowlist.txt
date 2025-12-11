@@ -2490,6 +2490,10 @@ hewettite
 hexanal
 hexapartite
 hexpartite
+whole
+hole
+holy
+wholly
 hydrohematite
 hydromassage
 hydroxyapatite
